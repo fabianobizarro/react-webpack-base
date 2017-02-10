@@ -1,5 +1,9 @@
+// import the base sass file
+import './stylesheet/base.sass'
+
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 
 const App = () => {
     return (
