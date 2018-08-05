@@ -20,7 +20,7 @@
   "homepage": "https://github.com/fabianobizarro/react-webpack-base#readme",
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^16.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
